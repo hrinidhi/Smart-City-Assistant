@@ -1,0 +1,2 @@
+# Smart-City-Assistant
+Sustainable Smart City Assistant using IBM Granite LLM
